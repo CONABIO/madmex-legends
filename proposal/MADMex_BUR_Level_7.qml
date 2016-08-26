@@ -13,12 +13,19 @@
            <item color="#c5c793" alpha="255" value="5" label="Mezquital y Submontano"/>
            <item color="#ebe1ea" alpha="255" value="6" label="Bosque Cultivado e Inducido"/>
            <item color="#49306b" alpha="255" value="7" label="Selva Baja Perennifolia y Bosque Mesofilo"/>
-           <item color="#c3e6aa" alpha="255" value="8" label="Selva Baja y Mediana Subperennifolia Galeria y Palmar Natural"/>
+           
+           <item color="#78a839" alpha="255" value="8" label="Selva Baja y Mediana Subperennifolia Galeria y Palmar Natural"/>
+           
            <item color="#498a89" alpha="255" value="9" label="Manglar y Peten"/>
-           <item color="#8ea86c" alpha="255" value="10" label="Selva Mediana y Alta Perennifolia"/>
+           
+           <item color="#86ed53" alpha="255" value="10" label="Selva Mediana y Alta Perennifolia"/>
+           
            <item color="#d30c7b" alpha="255" value="11" label="Selva Alta Subperennifolia"/>
+           
            <item color="#454f14" alpha="255" value="12" label="Selva Baja Caducifolia Subcaducifolia y Matorral Subtropical"/>
-           <item color="#fffa77" alpha="255" value="13" label="Selva Mediana Caducifolia y Subcaducifolia"/>
+           
+           <item color="#fff284" alpha="255" value="13" label="Selva Mediana Caducifolia y Subcaducifolia"/>
+           
            <item color="#9e5e36" alpha="255" value="14" label="Mezquital Xerofilo Galeria y Desertico Microfilo"/>
            <item color="#e03616" alpha="255" value="15" label="Matorral Crasicaule"/>
            <item color="#ff7f26" alpha="255" value="16" label="Matorral Espinoso Tamaulipeco"/>

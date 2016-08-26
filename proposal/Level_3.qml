@@ -14,11 +14,11 @@
           <item color="#4cb974" alpha="255" value="5" label="Bosque Templado"/>
           <item color="#4cb974" alpha="255" value="6" label="Bosque Templado"/>
 
-          <item color="#c3e6aa" alpha="255" value="7" label="Selva Perennifolia y Subperennifolia"/>
-          <item color="#c3e6aa" alpha="255" value="8" label="Selva Perennifolia y Subperennifolia"/>
-          <item color="#c3e6aa" alpha="255" value="9" label="Selva Perennifolia y Subperennifolia"/>
-          <item color="#c3e6aa" alpha="255" value="10" label="Selva Perennifolia y Subperennifolia"/>
-          <item color="#c3e6aa" alpha="255" value="11" label="Selva Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="7" label="Selva Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="8" label="Selva Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="9" label="Selva Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="10" label="Selva Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="11" label="Selva Perennifolia y Subperennifolia"/>
 
           <item color="#454f14" alpha="255" value="12" label="Selva Caducifolia y Subcaducifolia"/>
           <item color="#454f14" alpha="255" value="13" label="Selva Caducifolia y Subcaducifolia"/>

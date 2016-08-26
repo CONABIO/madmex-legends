@@ -12,11 +12,11 @@
           <item color="#4d642d" alpha="255" value="4" label="Bosque de Encino, Galería y Chaparral"/>
           <item color="#c5c793" alpha="255" value="5" label="Mezquital y Submontano"/>
           <item color="#ebe1ea" alpha="255" value="6" label="Bosque Cultivado e Inducido"/>
-          <item color="#c3e6aa" alpha="255" value="7" label="Selva Baja y Mediana, Perennifolia y Subperennifolia"/>
-          <item color="#c3e6aa" alpha="255" value="8" label="Selva Baja y Mediana, Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="7" label="Selva Baja y Mediana, Perennifolia y Subperennifolia"/>
+          <item color="#78a839" alpha="255" value="8" label="Selva Baja y Mediana, Perennifolia y Subperennifolia"/>
           <item color="#498a89" alpha="255" value="9" label="Manglar y Peten"/>
-          <item color="#8ea86c" alpha="255" value="10" label="Selva Mediana y Alta, Perennifolia y Subperennifolia"/>
-          <item color="#8ea86c" alpha="255" value="11" label="Selva Mediana y Alta, Perennifolia y Subperennifolia"/>
+          <item color="#86ed53" alpha="255" value="10" label="Selva Mediana y Alta, Perennifolia y Subperennifolia"/>
+          <item color="#86ed53" alpha="255" value="11" label="Selva Mediana y Alta, Perennifolia y Subperennifolia"/>
           <item color="#454f14" alpha="255" value="12" label="Selva Caducifolia y Subcaducifolia"/>
           <item color="#454f14" alpha="255" value="13" label="Selva Caducifolia y Subcaducifolia"/>
           <item color="#9e5e36" alpha="255" value="14" label="Mezquital Xerofilo"/>
